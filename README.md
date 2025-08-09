@@ -28,7 +28,7 @@ This project was built as part of my **IIT Jammu Internship** 🏫 to help stude
 ---
 
 ## 📺 Demo Video
-🎥 **Linkedin Post:** [Demo Link]()  
+🎥 **Linkedin Post:** [Demo Link](https://www.linkedin.com/posts/muskan-sharma2208_artificialintelligence-machinelearning-openai-activity-7360003105091989505-71Su?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFoJALEBmuYl7p_GVlFFzgVh4v3dJL4x9ak)  
 
 ---
 

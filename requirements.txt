@@ -1,0 +1,10 @@
+openai
+python-pptx
+playwright
+beautifulsoup4
+requests
+tqdm
+load_dotenv
+
+markdown2       # If you want to use Markdown instead of pptx directly
+crewai          # Optional if you plan to use CrewAI agents
